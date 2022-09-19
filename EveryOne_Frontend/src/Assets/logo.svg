@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="386" height="138" viewBox="0 0 386 138">
+  <g id="Group_1" data-name="Group 1" transform="translate(-20 -64)">
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(20 64)" fill="#635656" stroke="#707070" stroke-width="1">
+      <rect width="386" height="138" stroke="none"/>
+      <rect x="0.5" y="0.5" width="385" height="137" fill="none"/>
+    </g>
+    <text id="EVERYONE" transform="translate(82 145)" fill="#efeaea" stroke="#efeaea" stroke-width="1" font-size="50" font-family="SegoeUI-BoldItalic, Segoe UI" font-weight="700" font-style="italic"><tspan x="0" y="0">EVERYONE</tspan></text>
+  </g>
+</svg>
