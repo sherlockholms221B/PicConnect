@@ -1,4 +1,4 @@
-# EVERYONE Picture Sharing Social Media Application
+# PicConnect Picture Sharing Social Media Application
 
 ![EVERYONE](https://i.ibb.co/Y3BgVcM/Screenshot-5.png)
 <a href="https://everyoneapp.netlify.app">Live site</a>
